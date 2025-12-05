@@ -1,0 +1,10 @@
+﻿blinker
+click
+colorama
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+packaging
+Werkzeug
