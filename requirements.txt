@@ -8,3 +8,6 @@ Jinja2
 MarkupSafe
 packaging
 Werkzeug
+tensorflow
+numpy
+Pillow
